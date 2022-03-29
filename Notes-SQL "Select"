@@ -1,0 +1,12 @@
+Select * from (table name):Selects all the fields from the table
+
+If you want to select certain fields use:
+Select columnA,columnB,ColumnC,...
+From (table_name)
+
+Select Distinct fieldA,fieldB,fieldC...
+From(table_name)
+^ Returns only one pf a certain value.
+
+Functions list:
+https://www.w3schools.com/sqL/sql_ref_sqlserver.asp
