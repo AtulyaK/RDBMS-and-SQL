@@ -1,0 +1,7 @@
+Where clause
+
+Used to filter records based on given conditions
+
+Select fieldA,fieldB,fieldC
+From (table_name)
+Where (given condition);
