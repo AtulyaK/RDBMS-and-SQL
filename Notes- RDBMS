@@ -1,0 +1,8 @@
+RDBMS Notes
+
+An RDMBS is a Relational Database Management System. 
+
+Data in the RDBMS is stored in tables. The tables contain cloumns, also known as fields, and rows, also known as records.
+
+A primary key is the way differentitate every record from each other, makes each record unique. A foreign key references the primary key of one table in a separate table.
+
